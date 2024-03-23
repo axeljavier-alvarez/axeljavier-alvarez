@@ -8,8 +8,10 @@
 
 - 📝 I regularly write articles on [https://axel5javier536.wixsite.com/website](https://axel5javier536.wixsite.com/website)
 
- 
+ <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez" /></p>
+ </div>
+
 <h2 align="center">Skills</h2>
 <!--
 <h4>Frontend</h4>
