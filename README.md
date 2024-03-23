@@ -29,7 +29,7 @@
 <h4 align="center">Extras</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,figma,git,github,markdown,vscode,discord" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,apache" alt="Skills">
   </a>
 </p>
 
