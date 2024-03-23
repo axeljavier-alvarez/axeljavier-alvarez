@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeljavier-alvarez&label=Profile%20views&color=0e75b6&style=flat" alt="axeljavier-alvarez" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://axel5javier536.wixsite.com/website](https://axel5javier536.wixsite.com/website)
 
-- 📝 I regularly write articles on [https://axel5javier536.wixsite.com/website](https://axel5javier536.wixsite.com/website)
 
  <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez" /></p>
