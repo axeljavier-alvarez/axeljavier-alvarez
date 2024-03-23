@@ -1,6 +1,6 @@
 ![MarioProgramming](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
-<h2 align="center">Hi 👋! My name is Marco Silvera and I am a Computer Engineering student<br> specialized in front-end web development , i am from  Perú <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png" width="18"/></h2>
-<svg></svg>
+<h1 align="center">Hi 👋, I'm Axel Javier Alvarez</h1>
+<h3 align="center">A passionate software developer from Guatemala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marco-Silvera&label=Profile%20views&color=brightgreen&style=flat" alt="marco-silvera" /> </p>
 
