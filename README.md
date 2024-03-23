@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeljavier-alvarez&label=Profile%20views&color=0e75b6&style=flat" alt="axeljavier-alvarez" /> </p>
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&card_width=" height="150" alt="languages graph"  />
 </div>
 
 <h2 align="center">Skills</h2>
