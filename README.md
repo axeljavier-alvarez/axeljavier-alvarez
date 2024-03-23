@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://axel5javier536.wixsite.com/website](https://axel5javier536.wixsite.com/website)
 
-- 💬 Ask me about **javascript,c++**
-
 <p align="left">
 </p>
 
