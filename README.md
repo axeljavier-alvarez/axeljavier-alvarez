@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Javier Alvarez</h1>
-<h3 align="center">A passionate software developer from Guatemala</h3>
+<h3 align="center">A passionate software developer</h3>
 
 
 
@@ -8,7 +8,7 @@
  
 </p>
 
-<p align="center"><img src="https://nextshark.com/wp-content/uploads/2018/01/007.gif" height="250" /></p>
+<p align="center"><img src="https://camo.githubusercontent.com/b5237ea9145a1dcc8a68651d29469c1eba021563a129d7d19fb43db81709c600/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f38382f64612f65643838646138633735376437346636323535373137666663376137383135342e676966" height="250" /></p>
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez"  height="150" alt="languages graph"  />
