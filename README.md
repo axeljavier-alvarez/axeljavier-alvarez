@@ -16,7 +16,7 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" alt="html">
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="html">
 </p>
 
 <h4 align="center">Backend</h4>
