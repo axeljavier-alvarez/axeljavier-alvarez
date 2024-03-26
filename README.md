@@ -16,20 +16,7 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=html" alt="html5"/> 
-</a> 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=css" alt="css3"/> 
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" alt="html">
 </p>
 
 <h4 align="center">Backend</h4>
