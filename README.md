@@ -11,6 +11,9 @@
 ![Boostrap](https://img.shields.io/badge/Bootstrap-black%20?logo=bootstrap)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-black%20?logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-black%20?logo=angular)&nbsp;
+![Node](https://img.shields.io/badge/NodeJs-black%20?logo=nodedotjs)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-black%20?logo=cplusplus)&nbsp;
+
 
 
 
