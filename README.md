@@ -16,7 +16,9 @@
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=html" alt="Skills">
+  </a>
 
 </p>
 
@@ -29,7 +31,7 @@
 <h4 align="center">Extras</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" alt="html">
   </a>
 </p>
 
