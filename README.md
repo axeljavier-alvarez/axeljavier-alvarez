@@ -17,9 +17,8 @@
 ![Springboot](https://img.shields.io/badge/SpringBoot-black?logo=spring)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)&nbsp;
-
-
-
+![Visual Code](https://img.shields.io/badge/Visual%20Code-black?logo=visualstudiocode)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-black?logo=postman)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez"  height="150" alt="languages graph"  />
