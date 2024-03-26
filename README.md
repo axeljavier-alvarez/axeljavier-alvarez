@@ -8,7 +8,7 @@
  
 </p>
 
- ![MarioProgramming]([https://camo.githubusercontent.com/74295d5c262f8977e402527321dadd1698580b31d95d832ec33ff487c4087cee/68747470733a2f2f6e657874736861726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f3030372e676966](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+ ![MarioProgramming](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez"  height="150" alt="languages graph"  />
