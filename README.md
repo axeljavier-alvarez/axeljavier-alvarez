@@ -21,7 +21,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=" alt="html">
+    <img src="https://skillicons.dev/icons?i=nodejs,cpp,java,spring" alt="html">
 </p>
 
 
