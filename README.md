@@ -13,7 +13,7 @@
 ![Angular](https://img.shields.io/badge/Angular-black%20?logo=angular)&nbsp;
 ![Node](https://img.shields.io/badge/NodeJs-black%20?logo=nodedotjs)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-black%20?logo=cplusplus)&nbsp;
-![Java](https://img.shields.io/badge/Java-11-blue?logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/Java-black)&nbsp;
 
 
 
