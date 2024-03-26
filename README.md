@@ -14,6 +14,7 @@
 ![Node](https://img.shields.io/badge/NodeJs-black%20?logo=nodedotjs)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-black%20?logo=cplusplus)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![logo](https://img.shields.io/badge/logo-https://example.com/java-logo.svg?style=flat-square)&logoColor=white
 
 
 
