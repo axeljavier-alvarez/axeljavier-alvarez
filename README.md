@@ -25,10 +25,10 @@
 </p>
 
 
-<h4 align="center">Extras</h4>
+<h4 align="center">Database</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cpp,java,spring" alt="html">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="html">
   </a>
 </p>
 
