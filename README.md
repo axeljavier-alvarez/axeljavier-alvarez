@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Guatemala</h3>
 
 
-  ![MarioProgramming](https://camo.githubusercontent.com/74295d5c262f8977e402527321dadd1698580b31d95d832ec33ff487c4087cee/68747470733a2f2f6e657874736861726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30312f3030372e676966)
+  ![MarioProgramming](https://camo.githubusercontent.com/b5237ea9145a1dcc8a68651d29469c1eba021563a129d7d19fb43db81709c600/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65642f38382f64612f65643838646138633735376437346636323535373137666663376137383135342e676966)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeljavier-alvarez&label=Profile%20views&color=0e75b6&style=flat" alt="axeljavier-alvarez" /> </p>
