@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2a0505?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2a0505?style=flat&logo=javascript)&nbsp;
 ![Boostrap](https://img.shields.io/badge/Bootstrap-black%20?logo=bootstrap)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-black%20?logo=typescript)&nbsp;
 
 
 
