@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Axel Javier Alvarez</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ax&label=Profile%20views&color=0e75b6&style=flat" alt="ax" /> </p>
 <h3 align="center">A passionate software developer</h3>
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" width='280' align="right"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ax&label=Profile%20views&color=0e75b6&style=flat" alt="ax" /> </p>
 ### 💻 Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-2a0505?style=flat&logo=HTML5)&nbsp;
