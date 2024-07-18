@@ -21,5 +21,4 @@
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axeljavier-alvarez&show_icons=true&locale=en&layout=compact" alt="axeljavier-alvarez" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeljavier-alvarez&layout=compact)
