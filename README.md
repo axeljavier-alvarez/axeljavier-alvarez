@@ -12,9 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black%20?logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-black%20?logo=angular)&nbsp;
 ![Node](https://img.shields.io/badge/NodeJs-black%20?logo=nodedotjs)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-black%20?logo=cplusplus)&nbsp;
-![Java](https://img.shields.io/badge/Java-black)&nbsp;
-![Springboot](https://img.shields.io/badge/SpringBoot-black?logo=spring)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)&nbsp;
 ![Visual Code](https://img.shields.io/badge/Visual%20Code-black?logo=visualstudiocode)&nbsp;
