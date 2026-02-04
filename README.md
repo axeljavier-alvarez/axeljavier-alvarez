@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Axel Javier Alvarez</h1>
-<h3 align="center">A passionate software developer</h3>
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" width='280' align="right"/>
 
